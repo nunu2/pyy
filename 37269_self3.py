@@ -316,13 +316,13 @@ def help():
                   "™↔ " + key + "Lurking「on/off」\n" + \
                   "™↔ " + key + "Lurkers\n" + \
                   "™↔ " + key + "Sider「on/off」\n" + \
-                  "™ " + key + "Updatefoto\n" + \
+                  "™↔ " + key + "Updatefoto\n" + \
                   "™↔ " + key + "Updategrup\n" + \
                   "™↔ " + key + "Updatebot\n" + \
                   "™↔ " + key + "Broadcast:「Text」\n" + \
                   "™↔ " + key + "Setkey「New Key」\n" + \
                   "™↔ " + key + "Mykey\n" + \
-                  "™↔ " + key + "Resetkey\n" + \ 
+              #    "™↔ " + key + "Resetkey\n" + \ 
                   "\n ™[Selfbot Hiburan]™\n   Gunakan「 " + key + " 」di depannya\n\n" + \
                   "™↔ " + key + "ID line:「Id Line nya」\n" + \
                   "™↔ " + key + "Sholat:「Nama Kota」\n" + \
